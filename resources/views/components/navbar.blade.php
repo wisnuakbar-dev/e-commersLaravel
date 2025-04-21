@@ -10,21 +10,21 @@ aria-expanded="false" aria-label="Toggle navigation">
            <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
                <ul class="navbar-nav me-auto mb-2 mb-lg-0"> 
                    <li class="nav-item"> 
-                       <a class="nav-link active" aria-current="page" href="#">Home</a> 
+                       <a class="nav-link active" aria-current="page" href="/">Home</a> 
                    </li> 
                    <li class="nav-item"> 
                        <a class="nav-link" href="products">Products</a> 
                    </li> 
                    <li class="nav-item dropdown"> 
-                       <a class="nav-link dropdown-toggle" href="categories" role="button" 
+                       <a class="nav-link dropdown-toggle" href="#" role="button" 
 data-bs-toggle="dropdown" aria-expanded="false"> 
                            Categories 
                        </a> 
                        <ul class="dropdown-menu"> 
-                           <li><a class="dropdown-item" href="categoriesPria">Pria</a></li> 
-                           <li><a class="dropdown-item" href="/Wanita">Wanita</a></li> 
+                           <li><a class="dropdown-item" href="/category/Pria">Pria</a></li> 
+                           <li><a class="dropdown-item" href="/category/Wanita">Wanita</a></li> 
                            <li><hr class="dropdown-divider"></li> 
-                           <li><a class="dropdown-item" href="/Anak-Anak">Anak-Anak</a></li> 
+                           <li><a class="dropdown-item" href="/category/Anak-Anak">Anak-Anak</a></li> 
                        </ul> 
                    </li> 
                </ul> 
